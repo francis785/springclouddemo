@@ -12,6 +12,7 @@
         <module>springcloud-demo-server</module>
         <module>springcloud-demo-user</module>
         <module>springcloud-demo-order</module>
+        <module>springcloud-demo-user-hystrix</module>
     </modules>
     <!--父依赖-->
     <parent>
