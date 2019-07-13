@@ -9,3 +9,8 @@ eureka:
 spring:
   application:
     name: springcloud-demo-user-hystrix
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
